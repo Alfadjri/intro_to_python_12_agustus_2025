@@ -19,3 +19,6 @@ print(f"Seluruh  Data : {profile}")
 
 del profile["nama_ketua_kelas"]
 print(f"Seluruh  Data : {profile}")
+
+
+print("Halaman maestro")
