@@ -22,3 +22,4 @@ print(f"Seluruh  Data : {profile}")
 
 
 print("Halaman maestro")
+print("Halaman maestro 2")
